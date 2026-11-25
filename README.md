@@ -1,8 +1,8 @@
-# Tip and Split Calculator
+# Tip Split Round Up
 
 > Set a tip, split the check, or round each share up to a clean total.
 
-**Live demo:** https://0xelitesystem.github.io/tip-and-split-calculator/
+**Live demo:** https://0xelitesystem.github.io/tip-split-round-up/
 
 Single HTML file. Runs in the browser with no build step, no server, no tracking, and no data leaving the page.
 
@@ -20,7 +20,7 @@ Single HTML file. Runs in the browser with no build step, no server, no tracking
 
 ## Use
 
-Open the hosted page: https://0xelitesystem.github.io/tip-and-split-calculator/
+Open the hosted page: https://0xelitesystem.github.io/tip-split-round-up/
 
 Or download `index.html` and open it in any browser. It works offline.
 
@@ -42,8 +42,8 @@ One exception to "no local storage": your light or dark theme choice is saved in
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/tip-and-split-calculator
-cd tip-and-split-calculator
+git clone https://github.com/0xelitesystem/tip-split-round-up
+cd tip-split-round-up
 ```
 
 Open `index.html` in any browser. Or serve the folder and visit http://localhost:8000:
@@ -59,7 +59,7 @@ No build step. The whole tool is one `index.html` file with inline CSS and JavaS
 ## Related
 
 - [invoice-total-builder](https://github.com/0xelitesystem/invoice-total-builder)
-- [savings-goal-planner](https://github.com/0xelitesystem/savings-goal-planner)
+- [savings-goal-solver](https://github.com/0xelitesystem/savings-goal-solver)
 
 ## More
 
